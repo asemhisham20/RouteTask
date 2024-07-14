@@ -11,7 +11,8 @@
 Here're some of the project's best features:
 
 *   Explore all products in same activity
-*   Simple and accurate design  
+*   Simple and accurate design
+*   Error Handling: Graceful error handling to keep users informed.
   
 <h2>💻 Built with</h2>
 
