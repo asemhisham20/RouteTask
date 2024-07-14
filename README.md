@@ -22,7 +22,7 @@ Technologies used in the project:
 *   livedata
 *   Kotlin-Coroutines
 *   Repository Pattern
-*   SDP/SPP
+*   SDP/SSP
 *   Junit
 *   Retrofit
 *   OkHttp
