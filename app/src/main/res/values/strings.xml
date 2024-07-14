@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ecommerce</string>
+    <string name="cart">cart</string>
+    <string name="search_hint">what do you search for?</string>
+    <string name="tryagain">أعـــد المحــاولة</string>
+    <string name="faileconnect">انقطع الإتصال بالإنترنت</string>
+
+</resources>
